@@ -4,7 +4,7 @@ date: 2019-01-24T16:15:54-08:00
 draft: true
 author: "Author Default"
 weight: 2
-slug: two-custom-slug
+slug: two
 description: description of the content on Page Two.
 keywords: Two meta keywords
 categories: ["cat2"]

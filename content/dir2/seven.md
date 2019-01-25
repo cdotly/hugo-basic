@@ -3,8 +3,8 @@ title: "Seven"
 date: 2019-01-24T16:19:14-08:00
 draft: true
 author: "Author Directory 2"
-weight: lower weight will come first
-slug: custom-slug-seven
+weight: 1
+slug: seven
 description: description of the content
 keywords: the meta keywords for the content
 categories: ["cat2"]
@@ -14,6 +14,8 @@ levels:   ["level1", "level2", "level3"]
 
 ## Space!
 This is the content for page Seven.md, located in the `content/dir2` folder. 
+Also with a weight of 1 in the front matter, so it supercedes page one with the same weight. perhaps because it was made more recently? 
+
 
 End of summary
 <!-- more -->

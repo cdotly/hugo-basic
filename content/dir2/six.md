@@ -4,7 +4,7 @@ date: 2019-01-24T16:19:04-08:00
 draft: true
 author: "Author Directory 2"
 weight: 6
-slug: custom-slug
+slug: six
 description: description of the content
 keywords: the meta keywords for the content
 categories: ["cat3"]

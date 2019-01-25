@@ -3,8 +3,8 @@ title: "Nine"
 date: 2019-01-24T16:19:31-08:00
 draft: true
 author: "Author Directory 3"
-weight: lower weight will come first
-slug: custom-slug-nine
+weight: 9
+slug: nine
 description: description of the content
 keywords: the meta keywords for the content
 categories: ["cat3"]
