@@ -1,0 +1,16 @@
+baseURL: /
+title: "Hugo One, a New Theme"
+defaultContentLanguage: en
+languages:
+  en:
+    lang: en
+    languageName: English
+    weight: 1
+MetaDataFormat: "yaml"
+theme: "hugo-one"
+googleAnalytics: "tracking-id"
+relativeURLs: true
+taxonomies:
+  category: categories
+  tag: tags
+  level: levels
