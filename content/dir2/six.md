@@ -12,12 +12,11 @@ tags: ["tag4"]
 levels:   ["level2"]
 ---
 
-
 ## Space!
-This is the content for page Six.md, located in the `content/dir2` folder. 
+This is the content for page Six.md, located in the `content/dir2` folder.
 
 End of summary
 <!-- more -->
 
-### The final frontier. 
-Why do we always come here? I guess well never know. Its like a kind of torture to have to watch the show. The mate was a mighty sailin' man the Skipper brave and sure. Five passengers set sail that day for a three hour tour a three hour tour? And when the odds are against him and their dangers work to do. You bet your life Speed Racer he will see it through! 
+### The final frontier.
+Why do we always come here? I guess well never know. Its like a kind of torture to have to watch the show. The mate was a mighty sailin' man the Skipper brave and sure. Five passengers set sail that day for a three hour tour a three hour tour? And when the odds are against him and their dangers work to do. You bet your life Speed Racer he will see it through!
